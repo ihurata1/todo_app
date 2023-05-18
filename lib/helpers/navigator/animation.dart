@@ -63,7 +63,7 @@ class PageTransition<T> extends PageRouteBuilder<T> {
                 // ignore: dead_code
                 break;
 
-              /// PageTransitionType.leftToRight which is the give us left to right transitionn
+              /// PageTransitionType.leftToRight which is the give us left to right transitionnn
               case PageTransitionType.leftToRight:
                 return SlideTransition(
                   position: Tween<Offset>(
