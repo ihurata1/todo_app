@@ -1,16 +1,24 @@
-# root
+Todo app with push notification
+to do app made with flutter, with schedule push notification.
 
-A new Flutter project.
+Features:
 
-## Getting Started
+Schedule a program.
+List the programs day by day. (animated list)
+Get push notification when the program time starts.
+Mark the program as Complete or Delete it.
+Four color palette options.
+Packages:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+flutter_countdown_timer
+flutter_local_notifications
+flutter_native_timezone
+flutter_sequence_animation
+flutter_staggered_animations
+get
+get_storage
+google_fonts
+google_nav_bar
+intl
+line_icons
+sqflite
